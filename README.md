@@ -1,7 +1,7 @@
 MPAGen
 ======
 
-### [MasterPasswordApp.com](https://masterpasswordapp.com) compatible Password Generator Plugin for KeePass 2.x
+### [MasterPasswordApp.com](https://ssl.masterpasswordapp.com/) compatible Password Generator Plugin for KeePass 2.x
 
 ## Installation
 
