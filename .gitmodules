@@ -1,0 +1,3 @@
+[submodule "DotNetMasterPassword"]
+	path = DotNetMasterPassword
+	url = https://github.com/gomasch/DotNetMasterPassword.git
